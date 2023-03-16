@@ -3,9 +3,6 @@
 
 # ## Lab3. Fuel Amount Prediction using Linear Regression
 
-# ### Name:P.Asha Belcilda
-# ### Rollno:225229104
-
 # In[1]:
 
 
