@@ -1,9 +1,6 @@
 
 # coding: utf-8
 
-# ### Name : Harishmitha soundaranayaki
-# ### Roll no : 225229113
-
 # # Pizza Liking Prediction using KNN
 
 # In[4]:
