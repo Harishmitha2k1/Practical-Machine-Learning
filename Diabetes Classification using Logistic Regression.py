@@ -1,9 +1,6 @@
 
 # coding: utf-8
 
-# #### Name : Harismitha
-# #### Roll no : 225229113
-
 # # Lab5: Diabetes Classification using Logistic Regression
 
 # In[2]:
